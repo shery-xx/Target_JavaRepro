@@ -12,8 +12,8 @@ package NameSpaceData;
 
  public class CodePortTest
 {
-    public int count = 100;
-    public static String count =100;
+    public intcount=100;publicstaticStringcount = 100;
     public static String = "xyz";
+    public int usercount = 200;
 }
 
