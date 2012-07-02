@@ -20,7 +20,6 @@ package CodePortingCSharp2Java;
      * </p>
      */
     public static String Token = "";   
-    public String Test2="here";
-    public String Test3 = "text";		
+    public String Test2="here";		
 }
 
